@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Beatriz Karoline, e esse é meu GitHub!
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/soubeatrizkaroline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&layout=compact&langs_count=7&theme=dracula"/>
