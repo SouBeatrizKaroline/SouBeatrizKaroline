@@ -20,3 +20,5 @@
   <a href="https://www.linkedin.com/in/beatrizkcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6412388913893510" crossorigin="anonymous"></script>
