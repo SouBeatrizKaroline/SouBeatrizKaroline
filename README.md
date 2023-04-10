@@ -1,4 +1,4 @@
-## Hi! I'm Beatriz Karoline, and this is my GitHub!
+<h1>Hi! I'm Beatriz Karoline, and this is my GitHub!</h1>
 
 <div align="center"><br>
 <img align="center" width="50%" src="https://i.postimg.cc/4y0Cccvn/Vector-2.png"><br>
@@ -6,18 +6,16 @@
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&layout=compact&theme=midnight-purple" />
 </div>
 
-##
-
-### I'm currently learning
+<h2>I'm currently learning</h2>
 
 <div align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+<h2>Follow me on social networks!</h2>
  
 <div align="center"><br> 
   <a href="https://www.youtube.com/@soubeatrizkaroline" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
