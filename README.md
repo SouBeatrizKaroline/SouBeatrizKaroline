@@ -1,16 +1,22 @@
 ## Hi! I'm Beatriz Karoline, and this is my GitHub!
 
 ### I'm currently learning
-
-![SouBeatrizKaroline's GitHub](https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true)
-  
 <div align="center" style="display:inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+##
+
+### My current statistics
+
+<div align="center">
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true" />
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&layout=compact&theme=midnight-purple" />
+</div>
+
 ##
  
 <div align="center" style="display:inline_block"> 
