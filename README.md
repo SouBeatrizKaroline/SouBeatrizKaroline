@@ -2,8 +2,8 @@
 
 <div align="center"><br>
 <img align="center" width="50%" src="https://i.postimg.cc/4y0Cccvn/Vector-2.png"><br>
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true" />
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true&layout=compact" />
+<img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true" />
+<img align="center" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true&layout=compact" />
 </div>
 
 <h2>I'm currently learning</h2>
