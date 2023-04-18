@@ -39,5 +39,5 @@
 <h2>She is my human and I am the cat!</h2>
 
 <div align="center"><br>
-<img src='https://i.postimg.cc/XNfT1CZ1/Info-Panels-Batman.png'/>
+<img src='https://i.postimg.cc/t4FLVn3H/Group-1.png' />
 </div>
