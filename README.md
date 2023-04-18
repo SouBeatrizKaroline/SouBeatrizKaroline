@@ -9,9 +9,11 @@
 <h2>I'm currently learning</h2>
 
 <div align="center"><br>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,git&theme=dark&show_icons=true" />
-    <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=py,java,php,mysql,mongodb&theme=dark&show_icons=true" />
-    <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=c,cs,cpp,figma,unity&theme=dark&show_icons=true" />
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,github&theme=dark&show_icons=true" />
+  <br>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma,unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
+  <br>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,py,java,php,mysql,mongodb&theme=dark&show_icons=true" />
 </div>
 
 <h2>Follow me on social networks!</h2>
