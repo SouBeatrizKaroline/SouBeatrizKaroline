@@ -9,11 +9,16 @@
 <h2>I'm currently learning</h2>
 
 <div align="center"><br>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,github&theme=dark&show_icons=true" />
-  <br>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma,unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
-  <br>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,py,java,php,mysql,mongodb&theme=dark&show_icons=true" />
+  <h5>Web Development</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,reactb&theme=dark&show_icons=true" />
+  <h5>Game Development</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
+  <h5>Data Analysis and Database</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=py,java,php,mysql,mongodb&theme=dark&show_icons=true" />
+  <h5>Code Hosting</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,github&theme=dark&show_icons=true" />
+  <h5>Design</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma&theme=dark&show_icons=true" />
 </div>
 
 <h2>Follow me on social networks!</h2>
