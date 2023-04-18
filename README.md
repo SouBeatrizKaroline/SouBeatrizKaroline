@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/beatrizkcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h2 align="center">Seal of quality</h2>
+<h2>Seal of quality was issued by:</h2>
 
 <div align="center"><br>
 <img height="200px" src='https://i.postimg.cc/t4FLVn3H/Group-1.png' />
