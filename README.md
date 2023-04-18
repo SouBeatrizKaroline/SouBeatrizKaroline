@@ -36,8 +36,8 @@
   <a href="https://www.linkedin.com/in/beatrizkcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h2>She is my human and I am the cat!</h2>
+<h2 align="center">Seal of quality</h2>
 
 <div align="center"><br>
-<img src='https://i.postimg.cc/t4FLVn3H/Group-1.png' />
+<img height="200px" src='https://i.postimg.cc/t4FLVn3H/Group-1.png' />
 </div>
