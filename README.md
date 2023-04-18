@@ -10,7 +10,7 @@
 
 <div align="center"><br>
   <h5>Web Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,reactb&theme=dark&show_icons=true" />
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,react&theme=dark&show_icons=true" />
   <h5>Game Development</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
   <h5>Data Analysis and Database</h5>
