@@ -35,3 +35,9 @@
   <a href = "mailto:ebeatrizkcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizkcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<h2>She is my human and I am the cat!</h2>
+
+<div align="center"><br>
+<img src='https://i.postimg.cc/XNfT1CZ1/Info-Panels-Batman.png'/>
+</div>
