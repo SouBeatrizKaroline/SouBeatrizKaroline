@@ -18,7 +18,7 @@
   <h5>Code Hosting</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,github,gitlab&theme=dark&show_icons=true" />
   <h5>Cybersecurity</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=linux&theme=dark&show_icons=true" />
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=linux,postman&theme=dark&show_icons=true" />
   <h5>Design</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma&theme=dark&show_icons=true" />
   <h5>Other</h5>
