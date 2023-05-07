@@ -1,4 +1,6 @@
-<h1>Hi! I'm Beatriz Karoline, and this is my GitHub!</h1>
+<div align="center"><br>
+<img align="center" width="50%" src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1500&color=6F129D&center=true&vCenter=true&width=600&lines=Hi!+I'm+Beatriz+Karoline,+and+this+is+my+GitHub!"><br>
+</div>
 
 <div align="center"><br>
 <img align="center" width="50%" src="https://i.postimg.cc/4y0Cccvn/Vector-2.png"><br>
