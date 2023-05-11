@@ -33,7 +33,6 @@
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma&theme=dark&show_icons=true" />
   <h5>Other</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=matlab&theme=dark&show_icons=true" />
-
 </div>
 
 <h2>Follow me on social networks!</h2>
