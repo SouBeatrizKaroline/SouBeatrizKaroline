@@ -13,6 +13,7 @@
 <img align="center" width="50%" src="https://i.postimg.cc/4y0Cccvn/Vector-2.png"><br>
 <img height="160px"  src="https://github-readme-stats.vercel.app/api?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true" />
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubeatrizkaroline&theme=midnight-purple&show_icons=true&layout=compact" />
+<img height="160px"src="https://streak-stats.demolab.com?user=soubeatrizkaroline&theme=midnight-purple&mode=weekly">
 </div>
 
 <h2 align="center">A little about myself</h2>
