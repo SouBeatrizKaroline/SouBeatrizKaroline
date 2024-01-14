@@ -1,3 +1,10 @@
+<div align="center">
+<img height="50px" src='https://i.postimg.cc/QxSnhkJG/github.gif'>
+<img height="50px" src='https://i.postimg.cc/QxSnhkJG/github.gif'> 
+<img height="50px" src='https://i.postimg.cc/QxSnhkJG/github.gif'> 
+<img height="50px" src='https://i.postimg.cc/QxSnhkJG/github.gif'> 
+</div>
+
 <div align="center"><br>
 <img align="center" width="50%" src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1500&color=6F129D&center=true&vCenter=true&width=600&lines=Hi!+I'm+Beatriz+Karoline,+and+this+is+my+GitHub!;And+my+little+companion+is+Batman,+the+cat"><br>
 </div>
