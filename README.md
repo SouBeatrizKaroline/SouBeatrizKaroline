@@ -18,17 +18,17 @@
 
 <h2 align="center">A little about myself</h2>
 
-<h6>I've loved technology since I was a little girl, but it was about taking things apart, understanding how they work. I tried to take a computer course at the age of 10, but they thought I was too young at the time, and with that they didn't want to teach me anymore. But I still didn't let that stop me, so I didn't stop there. When I was a teenager, I used Tumblr, and with that, sometimes I needed to create codes or modify some things to make or use themes, I didn't relate it to programming, but it was my beginning, and I realize it now.</h6>
+<h6>Since I was a little girl, I've always loved technology, especially taking things apart and understanding how they work. At the age of 10, I tried to take a computer course, but they thought I was too young and refused to teach me. However, that didn't stop me. In my teens, I used Tumblr, sometimes needing to create codes or modify things to make or use themes. At the time, I didn't associate it with programming, but now I see it was my beginning.</h6>
 
-<h6>However, in 2021, while completing the Bachelor of Nursing course, I decided to try some selective processes within the faculty related to the technology area, and this made my vision for possibility become much greater. I learned a bit of programming, design, mechanics, electronics, and several other things. And as I was finishing college in 2022, I started to participate in competitions, I participated in hackathons, game jams, e-games selective, participating remotely, mainly, which gave me the possibility to know the whole world from home, since I was able to participate in hackathons in the US, Canada, India, UK, and of course, Brazil.</h6>
+<h6>In 2021, while studying Nursing, I decided to participate in selective processes at my college related to technology, expanding my possibilities. I learned a bit of programming, design, mechanics, electronics, and more. Upon completing college in 2022, I started participating in competitions, hackathons, game jams, e-games selections, mainly remotely, which allowed me to explore the world from home, participating in hackathons in the US, Canada, India, UK, and of course, Brazil.</h6>
 
-<h6>They thought I was crazy, how could I participate in international competitions if I barely knew another language? But that's exactly why I'm currently learning English and Spanish. They thought I was crazy, how could I participate in international competitions if I barely knew another language? But that's exactly why I'm currently learning English and Spanish. But despite having participated in so many things, which made me acquire so much knowledge, I still need to improve some, and that's why I use this GitHub for study and competition projects, selection processes and the like, and <a href="https://github.com/SouCodigo">SouCodigo</a> for projects I want to develop.</h6>
+<h6>They thought I was crazy. How could I participate in international competitions when I barely knew another language? That's why I'm learning English and Spanish. Despite having participated in so many things and acquiring a lot of knowledge, I still need to improve in some areas. That's why I use GitHub for study and competition projects, selection processes, and the like, and <a href="https://github.com/SouCodigo">SouCodigo</a> for projects I want to develop.</h6>
 
 <h2>I'm currently learning</h2>
 
 <div align="center"><br>
   <h5>Web Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,react&theme=dark&show_icons=true" />
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,react&theme=dark&show_icons=true" />
   <h5>Game Development</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
   <h5>Data Analysis and Database</h5>
