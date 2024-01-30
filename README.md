@@ -28,27 +28,23 @@
 
 <div align="center"><br>
   <h5>Web Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,sass,js,ts,nodejs,react,materialui&theme=dark&show_icons=true" />
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,sass,js,ts,nodejs,react,materialui,vscode&theme=dark&show_icons=true" />
   <h5>Data Analysis and Database</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=py,java,php,mysql,mongodb,docker,prisma&theme=dark&show_icons=true" />
   <h5>Game Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp&theme=dark&show_icons=true" />
-  <h5>Code Hosting</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp,visualstudio&theme=dark&show_icons=true" />
+  <h5>Code Editor and Hosting</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,github,gitlab&theme=dark&show_icons=true" />
   <h5>Social Platforms</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=discord,gmail,linkedin&theme=dark&show_icons=true" />
+  <h5>Engineering</h5>
+  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=r,matlab&theme=dark&show_icons=true" />
   <h5>Cybersecurity</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=linux,postman&theme=dark&show_icons=true" />
   <h5>Design</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma&theme=dark&show_icons=true" />
-  <h5>Mechanical</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=r&theme=dark&show_icons=true" />
-  <h5>Code Editor</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=vscode&theme=dark&show_icons=true" />
   <h5>Challenges</h5>
   <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=stackoverflow&theme=dark&show_icons=true" />
-  <h5>Other</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=matlab&theme=dark&show_icons=true" />
 </div>
 
 <h2>Follow me on social networks!</h2>
