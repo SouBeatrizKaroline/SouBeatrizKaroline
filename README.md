@@ -24,31 +24,6 @@
 
 <h6>They thought I was crazy. How could I participate in international competitions when I barely knew another language? That's why I'm learning English and Spanish. Despite having participated in so many things and acquiring a lot of knowledge, I still need to improve in some areas. That's why I use GitHub for study and competition projects, selection processes, and the like, and <a href="https://github.com/SouCodigo">SouCodigo</a> for projects I want to develop.</h6>
 
-<h2>I'm currently learning</h2>
-
-<div align="center"><br>
-  <h5>Web Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=html,css,sass,js,ts,nodejs,react,materialui,dotnet,vscode&theme=dark&show_icons=true" />
-  <h5>Data Analysis and Database</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=py,java,php,mysql,mongodb,docker,prisma,idea&theme=dark&show_icons=true" />  
-  <h5>Code Editor and Hosting</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=git,github,gitlab,vercel,powershell,heroku,wordpress,githubactions&theme=dark&show_icons=true" />
-  <h5>Game Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=unity,godot,c,cs,cpp,visualstudio&theme=dark&show_icons=true" />
-  <h5>Social Platforms</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=gmail,linkedin,twitter,discord,bots&theme=dark&show_icons=true" />
-  <h5>Engineering</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=r,matlab&theme=dark&show_icons=true" />
-  <h5>Cybersecurity</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=linux,postman&theme=dark&show_icons=true" />
-  <h5>Mobile Development</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=kotlin&theme=dark&show_icons=true" />
-  <h5>Design</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=figma&theme=dark&show_icons=true" />
-  <h5>Challenges</h5>
-  <img align="center" height="40px" src="https://skills.thijs.gg/icons?i=stackoverflow&theme=dark&show_icons=true" />
-</div>
-
 <h2>Follow me on social networks!</h2>
  
 <div align="center"><br> 
