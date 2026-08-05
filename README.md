@@ -1,170 +1,547 @@
 <div align="center">
 
-<img height="50px" src="https://i.postimg.cc/QxSnhkJG/github.gif">
-<img height="50px" src="https://i.postimg.cc/QxSnhkJG/github.gif">
-<img height="50px" src="https://i.postimg.cc/QxSnhkJG/github.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F129D&height=250&section=header&text=SouBeatrizKaroline&fontSize=60&fontColor=FFFFFF&animation=twinkling">
 
 </div>
 
-<br>
 
 <div align="center">
 
-<img width="70%" src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1500&color=6F129D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+SouBeatrizKaroline!;Technology+%7C+Innovation+%7C+Creativity;And+my+little+companion+is+Batman+%F0%9F%90%88">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=900&lines=%3E+Welcome+to+my+GitHub+World;Initializing+developer.exe...;Loading+creativity...;Loading+innovation...;Batman+assistant+online+%F0%9F%90%88">
 
 </div>
+
 
 <br>
 
+
 <div align="center">
 
-<img width="55%" src="https://i.postimg.cc/4y0Cccvn/Vector-2.png">
+<img src="https://i.postimg.cc/4y0Cccvn/Vector-2.png" width="230px">
 
-<br><br>
+<br>
 
-<img height="160px" src="https://streak-stats.demolab.com?user=soubeatrizkaroline&theme=midnight-purple&mode=weekly">
+<h3>
+💜 Developer | Innovator | Creator
+</h3>
+
+<p>
+Building solutions with Technology, AI, Design and Creativity.
+</p>
+
+
+<img src="https://komarev.com/ghpvc/?username=soubeatrizkaroline&color=6F129D&style=for-the-badge">
 
 </div>
 
+
+---
+
+# 🐾 System Profile
+
+
+<div align="center">
+
+
+| Information | Data |
+|-|-|
+| 👩‍💻 Name | Beatriz Karoline |
+| 🪪 Username | SouBeatrizKaroline |
+| 🐈 Companion | Batman Mister Barbinha |
+| 🌎 Location | Brazil |
+| 💻 Role | Developer & Innovator |
+| 🚀 Mission | Create technology with impact |
+| 🎯 Current Mode | Always Learning |
+
+
+</div>
+
+
+---
+
+# 🎮 Developer RPG Profile
+
+
+<div align="center">
+
+
+
+╔══════════════════════════════════╗
+CHARACTER PROFILE
+╚══════════════════════════════════╝
+
+Name:
+Beatriz Karoline
+
+Class:
+💻 Technology Explorer
+
+Level:
+28
+
+Experience:
+██████████░ 90%
+
+Skills:
+
+💻 Development
+████████░░
+
+🤖 Artificial Intelligence
+██████░░░░
+
+🎨 Design
+████████░░
+
+🌎 International Projects
+███████░░░
+
+🧠 Learning Ability
+∞
+
+Special Ability:
+
+✨ Turning ideas into real projects
+
+Companion:
+
+🐈 Batman Mister Barbinha
+
+
+
+</div>
+
+
+---
 
 # 👩‍💻 About Me
 
-Hello! I'm **Beatriz Karoline**, also known online as **SouBeatrizKaroline**.
 
-I am passionate about **technology, innovation, creativity, and problem solving**. My journey started before I even knew what programming was: as a child, I loved understanding how things worked, taking devices apart, and exploring technology.
-
-At 10 years old, I tried to start a computer course but was considered too young. That didn't stop my curiosity.
-
-During my teenage years, I explored platforms like Tumblr, modifying layouts, creating themes, and changing codes. At the time, I didn't realize it, but that was my first contact with programming.
+<div align="center">
 
 
-# 🚀 My Journey
+</div>
 
-In 2021, while studying **Nursing**, I started exploring technology through college selection processes and multidisciplinary projects.
 
-I learned about:
+Since childhood, I have always been curious about technology.
 
-- 💻 Programming
-- 🎨 Design
-- ⚙️ Electronics
-- 🤖 Technology solutions
-- 🧩 Innovation projects
+I loved understanding how things worked, exploring devices and discovering how digital worlds were created.
 
-After graduating in 2022, I started participating in:
+At 10 years old, I tried to start a computer course, but I was considered too young. That did not stop my curiosity.
 
-- 🏆 Hackathons
-- 🎮 Game Jams
-- 🌎 International competitions
-- 🚀 Innovation challenges
+Years later, while customizing Tumblr themes, changing layouts and modifying codes, I unknowingly had my first contact with programming.
 
-I have participated in projects and competitions involving participants from countries such as:
+
+---
+
+# 🧬 My Journey
+
+
+<div align="center">
+
+
+
+🧒 Childhood
+
+  ↓
+
+🔎 Curiosity about technology
+
+  ↓
+
+🎨 Tumblr customization & first codes
+
+  ↓
+
+🩺 Nursing + Technology exploration
+
+  ↓
+
+💻 Programming studies
+
+  ↓
+
+🏆 Hackathons & competitions
+
+  ↓
+
+🌎 International challenges
+
+  ↓
+
+🚀 Creating impactful solutions
+
+
+</div>
+
+
+---
+
+# 🌎 Global Explorer
+
+
+<div align="center">
+
+
+</div>
+
+
+I have participated in projects, competitions and innovation challenges connected with people from:
 
 🇧🇷 Brazil  
 🇺🇸 United States  
 🇨🇦 Canada  
-🇮🇳 India  
 🇬🇧 United Kingdom  
+🇮🇳 India  
 
 
-# 🌎 Continuous Learning
+---
 
-Many people thought it was impossible to participate in international competitions without being fluent in another language.
-
-That challenge became motivation.
-
-Currently, I continue improving my skills in:
-
-- 🇺🇸 English
-- 🇪🇸 Spanish
-- 💻 Programming
-- 🤖 Artificial Intelligence
-- 🎨 Design
-- 🚀 Product Development
+# 🏆 Achievement System
 
 
-# 💡 What I Do
+<div align="center">
 
-I enjoy creating solutions that connect:
 
-<table>
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+🏆 +50 Hackathons Participated
+
+<br>
+
+🌎 International Competitions
+
+<br>
+
+🚀 Innovation Projects
+
+<br>
+
+💡 Technology Solutions
+
+<br>
+
+🎨 Creative Development
+
+
+</div>
+
+
+---
+
+# 🧠 Technology Universe
+
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nodejs,python,git,github,figma">
+
+
+</div>
+
+
+<br>
+
+
+<table align="center">
+
 <tr>
-<td align="center">💻<br><b>Technology</b></td>
-<td align="center">🧠<br><b>Innovation</b></td>
-<td align="center">🎨<br><b>Design</b></td>
-<td align="center">🌎<br><b>Impact</b></td>
+
+<td align="center">
+
+💻
+
+<br>
+
+Frontend
+
+<br>
+
+React • JS • TS
+
+</td>
+
+
+<td align="center">
+
+🤖
+
+<br>
+
+Artificial Intelligence
+
+<br>
+
+LLMs • AI Tools
+
+</td>
+
+
+<td align="center">
+
+🎨
+
+<br>
+
+UX/UI
+
+<br>
+
+Design Thinking
+
+</td>
+
+
+<td align="center">
+
+🚀
+
+<br>
+
+Innovation
+
+<br>
+
+Hackathons
+
+</td>
+
+
 </tr>
+
 </table>
 
 
-My interests include:
+---
 
-- Front-end Development
-- Artificial Intelligence
-- UX/UI Design
-- Gamification
-- Health Technology
-- Educational Technology
-- Innovation Projects
+# 🚀 Project Universe
 
-
-# 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,git,github,figma">
+
+<table>
+
+
+<tr>
+
+
+<td align="center">
+
+
+<img src="PROJETO1.gif" width="180">
+
+
+<br>
+
+
+🚀
+
+<b>DestinAI</b>
+
+
+<br>
+
+
+AI Solution
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<img src="PROJETO2.gif" width="180">
+
+
+<br>
+
+
+🌱
+
+<b>RaízesGo</b>
+
+
+<br>
+
+
+Innovation
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<img src="PROJETO3.gif" width="180">
+
+
+<br>
+
+
+🩺
+
+<b>Dionisa</b>
+
+
+<br>
+
+
+Health Tech
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
 
 </div>
 
 
-# 🏆 Achievements
+---
+
+# 🐈 Batman.exe
+
 
 <div align="center">
 
-<img height="150px" src="https://i.postimg.cc/t4FLVn3H/Group-1.png">
+
+<img src="BATMAN_GIF.gif" width="200">
+
 
 </div>
 
 
-# 🐈 My Companion
 
-Every developer needs a little companion.
+Starting Batman.exe
 
-Mine is **Batman Mister Barbinha**, my cat and my unofficial coding assistant. 🐈‍⬛💜
+[██████████] 100%
+
+✔ Checking commits
+✔ Protecting repository
+✔ Searching bugs
+✔ Sleeping on keyboard
+
+Status:
+
+🐾 GOOD CAT
 
 
-# 📌 Current Goals
 
-- Improve my programming skills
-- Build impactful technology projects
-- Continue participating in innovation competitions
-- Develop solutions using AI and emerging technologies
-- Connect with people from different areas around the world
+---
 
+# 🤖 Artificial Intelligence Corner
+
+
+<div align="center">
+
+
+
+Human:
+"Can we create something new?"
+
+AI:
+"Let's build it."
+
+Batman:
+"Approved. 🐈"
+
+
+</div>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubeatrizkaroline&theme=midnight-purple">
+
+
+</div>
+
+
+---
+
+# 🎯 Current Missions
+
+
+<div align="center">
+
+
+
+MISSION BOARD
+
+☑ Improve programming skills
+
+☑ Build innovative projects
+
+☑ Learn new languages
+
+☑ Explore Artificial Intelligence
+
+☑ Create solutions with social impact
+
+☐ Become better every day
+
+
+</div>
+
+
+---
 
 # 🌐 Connect With Me
 
 
 <div align="center">
 
+
 <a href="https://www.youtube.com/@soubeatrizkaroline">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
+
 </a>
+
 
 <a href="https://instagram.com/soubeatrizkaroline">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+
 </a>
 
-<a href="https://www.twitch.tv/soubeatrizkaroline">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+
+<a href="https://www.linkedin.com/in/beatrizkcs/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
 </a>
 
-<a href="mailto:soubeatrizkaroline@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
+
+<a href="mailto:ebeatrizkcs@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail">
+
 </a>
 
-<a href="https://www.linkedin.com/in/soubeatrizkaroline">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 </div>
 
@@ -173,6 +550,19 @@ Mine is **Batman Mister Barbinha**, my cat and my unofficial coding assistant. �
 
 <div align="center">
 
-✨ "Always learning, creating and connecting technology with people." ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F129D&height=150&section=footer">
+
+
+<br>
+
+
+✨ "Creating technology, learning constantly and connecting ideas with people." ✨
+
+
+<br>
+
+🐈 Batman approves this README.
+
 
 </div>
