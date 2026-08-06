@@ -515,30 +515,73 @@ MISSION BOARD
 <div align="center">
 
 
-<a href="https://www.youtube.com/@soubeatrizkaroline">
+## 💜 Social & Content
 
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
+
+<a href="https://www.youtube.com/@1aspiraqualquer">
+
+<img src="https://img.shields.io/badge/YouTube-1%20Aspira%20Qualquer-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+</a>
+
+
+<a href="https://www.youtube.com/@SouBeatrizKaroline">
+
+<img src="https://img.shields.io/badge/YouTube-SouBeatrizKaroline-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
 </a>
 
 
-<a href="https://instagram.com/soubeatrizkaroline">
+<a href="https://instagram.com/1aspiraqualquer">
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/Instagram-@1aspiraqualquer-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
+
+
+<a href="https://www.tiktok.com/@soubeatrizkaroline">
+
+<img src="https://img.shields.io/badge/TikTok-@soubeatrizkaroline-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+
+</a>
+
+
+<a href="https://www.twitch.tv/soubeatrizkaroline">
+
+<img src="https://img.shields.io/badge/Twitch-soubeatrizkaroline-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+
+</a>
+
+
+<br><br>
+
+
+## 💼 Professional
 
 
 <a href="https://www.linkedin.com/in/beatrizkcs/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Beatriz%20Karoline-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
 
 <a href="mailto:ebeatrizkcs@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-ebeatrizkcs@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white">
+
+</a>
+
+
+<br><br>
+
+
+## 🐈 Batman Mister Barbinha Community
+
+
+<a href="https://discord.com/invite/FzEbgD3Njd">
+
+<img src="https://img.shields.io/badge/Discord-Batman%20Mister%20Barbinha-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 </a>
 
@@ -547,6 +590,7 @@ MISSION BOARD
 
 
 ---
+
 
 <div align="center">
 
@@ -557,12 +601,11 @@ MISSION BOARD
 <br>
 
 
-✨ "Creating technology, learning constantly and connecting ideas with people." ✨
-
+✨ Creating technology, learning constantly and connecting ideas with people. ✨
 
 <br>
 
-🐈 Batman approves this README.
+🐈 Batman approved this README.
 
 
 </div>
