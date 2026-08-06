@@ -116,41 +116,11 @@ Years later, while customizing Tumblr themes, changing layouts and modifying cod
 
 # 🧬 My Journey
 
-
 <div align="center">
 
-
-
-🧒 Childhood
-
-  ↓
-
-🔎 Curiosity about technology
-
-  ↓
-
-🎨 Tumblr customization & first codes
-
-  ↓
-
-🩺 Nursing + Technology exploration
-
-  ↓
-
-💻 Programming studies
-
-  ↓
-
-🏆 Hackathons & competitions
-
-  ↓
-
-🌎 International challenges
-
-  ↓
-
-🚀 Creating impactful solutions
-
+| 🌱 Beginning | 🎨 Discovery | 💻 Learning | 🏆 Growth | 🌍 Expansion | 🚀 Today |
+|:------------:|:------------:|:-----------:|:----------:|:------------:|:---------:|
+| Childhood | First curiosity about technology | Programming & AI | Hackathons & Competitions | International Challenges | Building impactful solutions |
 
 </div>
 
