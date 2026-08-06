@@ -58,43 +58,34 @@ Building solutions with Technology, AI, Design and Creativity.
 
 
 ---
+# 🎮 Character Profile
 
-# 🎮 Developer RPG Profile
+```text
+╭──────────────────────────────╮
+      PLAYER STATUS
+╰──────────────────────────────╯
 
+👤 Beatriz Karoline
 
-<div align="center">
+🏷 Class
+Technology Explorer
 
+⭐ Lv. 28
 
+❤️ HP  ██████████
+⚡ MP  ████████░░
+💡 XP  █████████░ 90%
 
-╔══════════════════════════════════╗
-CHARACTER PROFILE
-╚══════════════════════════════════╝
+──────── Skills ────────
 
-Name:
-Beatriz Karoline
+💻 Development      ████████░░
+🤖 AI               ██████░░░░
+🎨 Design           ████████░░
+🌎 Innovation       ███████░░░
 
-Class:
-💻 Technology Explorer
-
-Level:
-28
-
-Experience:
-██████████░ 90%
-
-Skills:
-
-💻 Development
-████████░░
-
-🤖 Artificial Intelligence
-██████░░░░
-
-🎨 Design
-████████░░
-
-🌎 International Projects
-███████░░░
+🐈 Companion
+Batman Mister Barbinha
+```
 
 🧠 Learning Ability
 ∞
