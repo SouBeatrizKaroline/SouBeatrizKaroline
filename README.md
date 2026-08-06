@@ -58,45 +58,34 @@ Building solutions with Technology, AI, Design and Creativity.
 
 
 ---
-# 🎮 Character Profile
+# 🤖 Developer Dashboard
 
 ```text
-╭──────────────────────────────╮
-      PLAYER STATUS
-╰──────────────────────────────╯
+SYSTEM STATUS
 
-👤 Beatriz Karoline
+👤 User............. Beatriz Karoline
+💻 Role............. Technology Explorer
+🌎 Region........... Brazil
+⭐ Level............ 28
+🐈 Companion........ Batman Mister Barbinha
 
-🏷 Class
-Technology Explorer
+────────────────────────────────────
 
-⭐ Lv. 28
+MODULES LOADED
 
-❤️ HP  ██████████
-⚡ MP  ████████░░
-💡 XP  █████████░ 90%
+✓ Front-end Development
+✓ Artificial Intelligence
+✓ UX/UI Design
+✓ Innovation & Hackathons
 
-──────── Skills ────────
+────────────────────────────────────
 
-💻 Development      ████████░░
-🤖 AI               ██████░░░░
-🎨 Design           ████████░░
-🌎 Innovation       ███████░░░
+🧠 Learning Mode.... ∞ Active
+🚀 Current Mission.. Building impactful technology
+✨ Special Skill.... Turning ideas into real projects
 
-🐈 Companion
-Batman Mister Barbinha
+STATUS.............. ONLINE 🟢
 ```
-
-🧠 Learning Ability
-∞
-
-Special Ability:
-
-✨ Turning ideas into real projects
-
-Companion:
-
-🐈 Batman Mister Barbinha
 
 
 
