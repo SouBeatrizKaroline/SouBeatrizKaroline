@@ -96,20 +96,17 @@ STATUS.............. ONLINE 🟢
 
 # 👩‍💻 About Me
 
-
 <div align="center">
 
+### Building technology with curiosity, creativity and purpose.
 
 </div>
 
+My journey into technology began long before I wrote my first line of code.
 
-Since childhood, I have always been curious about technology.
+Driven by curiosity, I spent years exploring computers, customizing websites and experimenting with digital tools. While editing Tumblr themes and modifying HTML and CSS, I unknowingly discovered the world of programming.
 
-I loved understanding how things worked, exploring devices and discovering how digital worlds were created.
-
-At 10 years old, I tried to start a computer course, but I was considered too young. That did not stop my curiosity.
-
-Years later, while customizing Tumblr themes, changing layouts and modifying codes, I unknowingly had my first contact with programming.
+Today, I combine software development, Artificial Intelligence, product thinking and collaborative innovation to create solutions that are both technically solid and genuinely useful. Whether through hackathons, personal projects or international challenges, I enjoy transforming ideas into experiences that can make a real impact.
 
 
 ---
