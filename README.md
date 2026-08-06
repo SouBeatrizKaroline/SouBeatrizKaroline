@@ -98,7 +98,7 @@ STATUS.............. ONLINE 🟢
 
 <div align="center">
 
-### Building technology with curiosity, creativity and purpose.
+*"Building technology with curiosity, creativity and purpose"*
 
 </div>
 
