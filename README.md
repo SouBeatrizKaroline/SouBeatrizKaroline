@@ -413,15 +413,17 @@ MISSION BOARD
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect & Explore
 
 <div align="center">
 
 ## 👩‍💻 My Digital Space
 
 <a href="https://soubeatrizkaroline.goskip.app/">
-<img src="https://img.shields.io/badge/🌐-Personal%20Portfolio-6F129D?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Personal_Portfolio-Visit_Website-6F129D?style=for-the-badge">
 </a>
+
+<br><br>
 
 <a href="https://www.youtube.com/@1aspiraqualquer">
 <img src="https://img.shields.io/badge/YouTube-1%20Aspira%20Qualquer-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -457,26 +459,26 @@ MISSION BOARD
 
 <br><br>
 
-# 🤝 Collaboration History
+## 🤝 Teams & Communities
 
 <a href="https://3devasdemais.goskip.app/">
-<img src="https://img.shields.io/badge/Portfolio-3%20Dev.as%20DemAIs-6F129D?style=for-the-badge">
+<img src="https://img.shields.io/badge/👩‍💻_3_Dev.as_DemAIs-Portfolio-6F129D?style=for-the-badge">
 </a>
 
 <a href="https://scarletstudio.com.br/">
-<img src="https://img.shields.io/badge/Website-Scarlet%20Studio-E63946?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎨_Scarlet_Studio-Website-C2185B?style=for-the-badge">
 </a>
 
 <a href="https://www.youtube.com/@arcadeage5824">
-<img src="https://img.shields.io/badge/YouTube-Arcade%20Age-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/🕹️_Arcade_Age-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <br><br>
 
-## 🐈 Batman Mister Barbinha Community
+## 🐈 Batman Mister Barbinha
 
 <a href="https://discord.com/invite/FzEbgD3Njd">
-<img src="https://img.shields.io/badge/Discord-Batman%20Mister%20Barbinha-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-Join_the_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
