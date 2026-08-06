@@ -35,64 +35,21 @@ Building solutions with Technology, AI, Design and Creativity.
 </div>
 
 
----
-
 # 🐾 System Profile
-
 
 <div align="center">
 
-
-| Information | Data |
-|-|-|
-| 👩‍💻 Name | Beatriz Karoline |
-| 🪪 Username | SouBeatrizKaroline |
-| 🐈 Companion | Batman Mister Barbinha |
-| 🌎 Location | Brazil |
-| 💻 Role | Developer & Innovator |
-| 🚀 Mission | Create technology with impact |
-| 🎯 Current Mode | Always Learning |
-
+| 🖥️ Profile | |
+|:-|:-|
+| 👩‍💻 Name | **Beatriz Karoline** |
+| 💼 Focus | Software Development • AI • Innovation |
+| 🌎 Based in | Brazil |
+| 🎓 Background | Marketing & Software Development |
+| 🚀 Mission | Building technology that creates real impact |
+| 🌱 Motto | *Always learning. Always creating.* |
+| 🐈 Sidekick | Batman Mister Barbinha |
 
 </div>
-
-
----
-# 🤖 Developer Dashboard
-
-```text
-SYSTEM STATUS
-
-👤 User............. Beatriz Karoline
-💻 Role............. Technology Explorer
-🌎 Region........... Brazil
-⭐ Level............ 28
-🐈 Companion........ Batman Mister Barbinha
-
-────────────────────────────────────
-
-MODULES LOADED
-
-✓ Front-end Development
-✓ Artificial Intelligence
-✓ UX/UI Design
-✓ Innovation & Hackathons
-
-────────────────────────────────────
-
-🧠 Learning Mode.... ∞ Active
-🚀 Current Mission.. Building impactful technology
-✨ Special Skill.... Turning ideas into real projects
-
-STATUS.............. ONLINE 🟢
-```
-
-
-
-</div>
-
-
----
 
 # 👩‍💻 About Me
 
